@@ -1,0 +1,12 @@
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.vscode/
+.idea/
