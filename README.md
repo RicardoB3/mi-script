@@ -31,7 +31,7 @@ Notas:
 Ejecute como root:
 
 ```bash
-wget -qO noxurassh "https://raw.githubusercontent.com/Davidgelves/NoxuraSSH/main/noxurassh?$(date +%s)" && chmod +x noxurassh && bash noxurassh
+wget -qO noxurassh "https://raw.githubusercontent.com/RicardoB3/mi-script/main/noxurassh?$(date +%s)" && chmod +x noxurassh && bash noxurassh
 ```
 
 Despues de instalar, puede abrir el menu con:
